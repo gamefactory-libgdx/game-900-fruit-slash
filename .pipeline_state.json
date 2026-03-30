@@ -1,0 +1,33 @@
+{
+  "title": "Fruit Slash",
+  "orientation": "portrait",
+  "genre": "slash-arcade",
+  "mechanic": "swipe",
+  "description": "Swipe to slice fruits, avoid bombs. Three modes: Classic (lives), Zen (time, no bombs), Arcade (60s with power-ups). Cutting board background. Combo multipliers for multi-slice.",
+  "screens": [
+    "MainMenuScreen",
+    "ModeSelectScreen",
+    "ClassicGameScreen",
+    "ZenGameScreen",
+    "ArcadeGameScreen",
+    "SliceResultScreen",
+    "ComboDetailScreen",
+    "LeaderboardScreen",
+    "SettingsScreen",
+    "TutorialScreen"
+  ],
+  "slug": "fruit-slash",
+  "archetype": "fruit-ninja",
+  "buttonStyle": "rounded",
+  "font1": "Crackman.otf",
+  "font2": "Ferrum.otf",
+  "colors": {
+    "primary": "#E91E63",
+    "accent": "#00BCD4",
+    "bg": "#1B5E20",
+    "text": "#FFFFFF"
+  },
+  "gameId": "game-900-fruit-slash",
+  "gamePath": "/home/kaliuzhnyi/asocity/projects/game-900-fruit-slash",
+  "packageName": "com.fruitslash000900.app9751"
+}

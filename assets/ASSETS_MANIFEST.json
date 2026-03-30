@@ -1,0 +1,58 @@
+{
+  "archetype": "fruit-ninja",
+  "selection": {
+    "sprites/object": {
+      "pack": "free-sky-with-clouds-pixel-seamless-backgrounds",
+      "source": "craftpix",
+      "path": "tilesets/side/ocean/free-sky-with-clouds-pixel-seamless-backgrounds",
+      "type": "object",
+      "theme": [
+        "nature",
+        "pirate"
+      ],
+      "png_count": 7
+    },
+    "sprites/ui": {
+      "pack": "craftpix-game-ui-pixel-art",
+      "source": "craftpix",
+      "path": "ui/generic/craftpix-game-ui-pixel-art",
+      "type": "ui",
+      "theme": [
+        "varied"
+      ],
+      "png_count": 139
+    },
+    "backgrounds/menu": {
+      "pack": "free-pixel-sky-with-parallax-clouds-for-2d-games",
+      "source": "craftpix",
+      "path": "tilesets/side/generic/free-pixel-sky-with-parallax-clouds-for-2d-games",
+      "type": "background",
+      "theme": [
+        "nature"
+      ],
+      "png_count": 7
+    },
+    "backgrounds/game": {
+      "pack": "craftpix-sky-2d-game-backgrounds",
+      "source": "craftpix",
+      "path": "backgrounds/sky/craftpix-sky-2d-game-backgrounds",
+      "type": "background",
+      "theme": [
+        "sky",
+        "nature"
+      ],
+      "png_count": 33
+    }
+  },
+  "buttons": {
+    "color": "Red",
+    "files": [
+      "button_rectangle_depth_gradient.png",
+      "button_rectangle_depth_flat.png",
+      "button_round_depth_gradient.png",
+      "button_round_depth_flat.png",
+      "star.png",
+      "star_outline.png"
+    ]
+  }
+}

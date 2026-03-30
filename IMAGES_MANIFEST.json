@@ -1,0 +1,18 @@
+{
+  "generated": [
+    "icon_512.png",
+    "ui/main_menu.png",
+    "ui/mode_select.png",
+    "ui/classic_game.png",
+    "ui/zen_game.png",
+    "ui/arcade_game.png",
+    "ui/slice_result.png",
+    "ui/combo_detail.png",
+    "ui/leaderboard.png",
+    "ui/settings.png",
+    "ui/tutorial.png",
+    "feature_banner.png"
+  ],
+  "failed": [],
+  "total_tokens": 27736
+}
